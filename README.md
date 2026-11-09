@@ -18,3 +18,8 @@ COACHTECH 教材 Tutorial 10-1「認証機能 ハンズオン演習」で作成�
 
 ## 動作確認
 - ローカルホストにアクセスし、Web画面にて表示されることを確認しました。
+<img width="1257" height="1080" alt="image" src="https://github.com/user-attachments/assets/4dd9516d-517a-4509-9dee-3fb914a10a40" />
+<img width="1257" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4b2d1dc-9674-46bf-979f-45b2613b5900" />
+<img width="1257" height="1080" alt="image" src="https://github.com/user-attachments/assets/59c51159-6b24-4538-b911-29b41a67d906" />
+
+
